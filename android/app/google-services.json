@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346771013938",
+    "project_id": "hotpot-solution-challenge-23",
+    "storage_bucket": "hotpot-solution-challenge-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346771013938:android:9f14a65abf9c20ed0a572b",
+        "android_client_info": {
+          "package_name": "com.example.sc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346771013938-btiakmovsk134q2rven4rkmhms6paabu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlSqTWdc0uFpBI8aWq3CeBss847wdCwDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346771013938-btiakmovsk134q2rven4rkmhms6paabu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
